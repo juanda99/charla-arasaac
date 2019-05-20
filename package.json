@@ -1,0 +1,23 @@
+{
+  "name": "charla-arasaac",
+  "version": "1.0.0",
+  "description": "Exposición sobre el desarrollo del nuevo portal de ARASAAC",
+  "main": "index.js",
+  "dependencies": {
+    "reveal-md": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "reveal-md ./index.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanda99/charla-arasaac.git"
+  },
+  "author": "juanda <juandacorreo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanda99/charla-arasaac/issues"
+  },
+  "homepage": "https://github.com/juanda99/charla-arasaac#readme"
+}
