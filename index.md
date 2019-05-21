@@ -8,9 +8,9 @@
 
 - Presentación personal
 - Qué es ARASAAC
-- Portal antiguo
+- Portal actual
   - Estudio nuevo desarrollo
-  - Migración
+  - Migración de servidor
 - Arquitectura y desarollo de la nueva versión
 
 
@@ -272,7 +272,7 @@ siege -c100 -t30s -f ./urls.txt
 
 ## Tuning apache
 
-- Cambiamos *KeepAliveTimeout de 5 a 3 y posteriormente a 2
+- Cambiamos *KeepAliveTimeout* de 5 a 3 y posteriormente a 2
 - Observamos un cambio grande
 
 ```
@@ -409,3 +409,13 @@ max_connections = 500
 - Formularios
 - Autocompletado
 - Datagrid
+
+
+
+## FIN
+
+@juandawrite
+
+juandacorreo@gmail.com
+
+https://github.com/juanda99
